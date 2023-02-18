@@ -1,0 +1,157 @@
+.row1{
+    background-color:aqua;
+    text-align: right;
+}
+.row2{
+    background-color: white;
+    text-align: left;
+}
+.row3{
+    background-color: white;
+    text-align: center;
+}
+.row4{
+    text-align: center;
+    background-color: aqua;
+
+
+}
+.box1{
+   width: 20%;
+   height: 10%;
+   float: left ;
+   padding-left: 5px;
+
+
+}
+.box11{
+    padding-left: 160px;
+    width: 20%;
+    height: 10%;
+    float: left ;
+}
+.row5{
+    height: 90%;
+    width: 30%; 
+    padding-left: 140px;
+}
+
+.box2{
+   background-color: white;
+   width: 150px;
+   height: 70px;
+   padding-left: 15px;
+   float: left;
+   margin-left: 70px;
+
+}
+.box21{
+    background-color: white;
+   width: 150px;
+   height: 70px;
+   padding-left: 160px;
+   float: left;
+   margin-left: 15px;
+   text-align: center;
+}
+.row6{
+  text-align: center;
+  background-color: aqua;
+}
+.box3{
+    background-color: white;
+   width: 150px;
+   height: 70px;
+   padding-left: 15px;
+   float: left;
+   margin-left: 70px;
+}
+.box31{
+    background-color: white;
+   width: 150px;
+   height: 70px;
+   padding-left: 160px;
+   float: left;
+   margin-left: 15px;
+   text-align: center;
+}
+
+.img1{
+width: 15%;
+height: 80px;
+}
+.img2{
+text-align: right;
+width: 90%;
+height: 15%;
+}
+.row7>img{
+    text-align: center ;
+
+}
+.img3{
+   background-color: white;
+   text-align: center;
+} 
+.img4{
+    padding-left: 150px;
+}
+.row8{
+background-color: aqua;
+text-align: left;
+padding-left: 160px;
+}
+.row9{
+background-color: aqua;
+}
+.gia{
+    color: red;
+    font-weight: bold;
+    font-size: larger;
+    text-align: center;
+}
+.ten{
+    font-size: larger;
+    font-variant: small-caps;
+    color: blue;
+    text-align: center;
+
+}
+.img5{
+padding-top: 330px;
+padding-left: 160px;
+}
+.row10{
+background-color: aqua;
+text-align: left;
+padding-left: 160px;
+}
+.box4{
+    background-color: white;
+   width: 150px;
+   height: 70px;
+   padding-left: 15px;
+   float: left;
+   margin-left: 70px;
+}
+.box41{
+    float: left;
+    background-color: white;
+   width: 150px;
+   height: 70px;
+   padding-left: 15px;
+   float: left;
+   margin-left: 70px;
+   padding-left: 160px;
+
+}
+.img6{
+    padding-top: 350px;
+    padding-left: 160px;
+    background-color: white;
+
+
+}
+a{
+text-decoration: none;
+}
